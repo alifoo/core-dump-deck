@@ -1,0 +1,21 @@
+{
+  "name": "core-dump-deck",
+  "version": "1.0.0",
+  "description": "This deck is under construction. The following concepts will be added:",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alifoo/core-dump-deck.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/alifoo/core-dump-deck/issues"
+  },
+  "homepage": "https://github.com/alifoo/core-dump-deck#readme"
+}

@@ -1,15 +1,20 @@
 # Core Dump Anki Deck
 
-This deck is under construction.
-The following concepts will be added:
+This deck is design to be used with a spaced-repetition study system called Anki. The purpose of the deck is to review fundamental good practices of programming. This deck assumes that you have familiarity with at least one programming language.
+
+## Download
+
+This deck is still in progress, but you can already download the current version [here](https://ankiweb.net/shared/info/1406849867?cb=1762302636922) or clone this repository and import the .apkg in Anki.
+
+The following principles will be added soon.
 
 ## SOLID Principles
 
-- [ ] Single Responsibility Principle (SRP)
-- [ ] Open/Closed Principle (OCP)
-- [ ] Liskov Substitution Principle (LSP)
-- [ ] Interface Segregation Principle (ISP)
-- [ ] Dependency Inversion Principle (DIP)
+- [x] Single Responsibility Principle (SRP)
+- [x] Open/Closed Principle (OCP)
+- [x] Liskov Substitution Principle (LSP)
+- [x] Interface Segregation Principle (ISP)
+- [x] Dependency Inversion Principle (DIP)
 
 ## Other Design Principles
 
@@ -72,7 +77,7 @@ The following concepts will be added:
 - [ ] Layered Architecture
 - [ ] Microservices vs Monolith
 - [ ] API Design (REST, GraphQL)
-- [ ] Dependency Injection
+- [x] Dependency Injection
 - [ ] Inversion of Control (IoC)
 
 ### Performance & Optimization
